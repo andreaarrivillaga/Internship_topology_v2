@@ -3,3 +3,7 @@ pandas
 networkx
 pyvis
 numpy
+plotly
+google-api-python-client
+python-dotenv
+tqdm
